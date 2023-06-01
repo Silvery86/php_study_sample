@@ -1,0 +1,17 @@
+.product{
+    width: 200px;
+    height: 300px;
+    border: 1px red solid;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.product img {
+    width: 180px; 
+    height: 200px;}
+.product h3 {
+    color: green;
+}
+.bg1 {background: grey;}
+.bg2 {background: khaki;}
